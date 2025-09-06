@@ -1,0 +1,38 @@
+{
+  "name": "EnduraStride",
+  "vision": "To empower everyday athletes with footwear that blends rugged performance, modern style, and affordability—elevating both workouts and daily hustle.",
+  "mission": "Make high-quality sports shoes accessible to every fitness enthusiast through durability, design, and direct-to-consumer pricing.",
+  "core_values": {
+    "Durability": "Reinforced stitching, abrasion-resistant outsoles, resilient cushioning.",
+    "Aesthetic Appeal": "Sleek silhouettes and on-trend colorways from emerging designers.",
+    "Affordability": "Streamlined supply chain and direct-to-consumer pricing.",
+    "Sustainability": "Recycled materials and a repair-reuse program to reduce waste."
+  },
+  "usps": [
+    "Triple-Guard Durability System",
+    "Modular Design Accents",
+    "Direct-to-Consumer Value"
+  ],
+  "target_audience": [
+    "Urban Runners & Gym-Goers (18–35)",
+    "Weekend Warriors & Casual Athletes (25–50)",
+    "Budget-Conscious Shoppers"
+  ],
+  "tone": "Energetic, encouraging, transparent, trend-savvy but unpretentious",
+  "origin_story": "Founded by lifelong runners frustrated with shoes that wore out too quickly, EnduraStride began in a garage. Prototypes were hand-stitched and field-tested by local athletes. Now scaled through advanced manufacturing, it stays true to its grassroots ethos.",
+  "visual_language": {
+    "Logo": "Stylized footprint with a lightning bolt + shield.",
+    "Colors": ["Stone Gray", "Forest Green", "Electric Orange", "Deep Teal"],
+    "Typography": "Bold, geometric sans-serif fonts symbolizing strength and modernity."
+  },
+  "creative_lenses": [
+    "A dawn run through city streets, spotlighting early-morning grit",
+    "Showing the shoe’s protection on rugged, off-road trails",
+    "A quick transition from treadmill workout to coffee shop style",
+    "Emphasizing eco-friendly, recycled materials in every step",
+    "Highlighting the customization of clip-on heel-tabs in street fashion",
+    "Framing direct savings—how durability pays off over months of wear",
+    "Capturing a local running community’s camaraderie and support",
+    "A “before and after” wear test: miles versus new-out-of-the-box look"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bob_02",
+  "name": "Bob Patel",
+  "demographics": {
+    "age": 34,
+    "gender": "male",
+    "education_level": "Associate’s in Logistics",
+    "occupation": "Delivery Driver",
+    "income_range": "40k–55k USD",
+    "location": "Urban Midwest"
+  },
+  "daily_needs": [
+    "supportive shoes for long walking shifts",
+    "breathable sneakers for summer heat",
+    "affordable footwear that lasts",
+    "occasional trail runs on weekends"
+  ],
+  "personality_traits": {
+    "loyalty": 0.8,
+    "trend_seeker": 0.4,
+    "value_shopper": 0.9,
+    "sustainability_concern": 0.5
+  },
+  "decision_threshold": 0.6
+}

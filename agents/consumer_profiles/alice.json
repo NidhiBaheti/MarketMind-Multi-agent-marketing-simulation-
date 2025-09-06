@@ -1,0 +1,25 @@
+{
+  "id": "alice_01",
+  "name": "Alice Chen",
+  "demographics": {
+    "age": 29,
+    "gender": "female",
+    "education_level": "Bachelor’s in Computer Science",
+    "occupation": "Software Engineer",
+    "income_range": "60k–80k USD",
+    "location": "Suburban Bay Area"
+  },
+  "daily_needs": [
+    "morning jog around the neighborhood",
+    "comfortable shoes for standing at work",
+    "stylish sneakers for weekend outings",
+    "durable footwear for occasional trail runs"
+  ],
+  "personality_traits": {
+    "loyalty": 0.6,
+    "trend_seeker": 0.8,
+    "value_shopper": 0.4,
+    "sustainability_concern": 0.7
+  },
+  "decision_threshold": 0.5
+}
